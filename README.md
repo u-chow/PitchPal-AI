@@ -28,7 +28,7 @@ It also includes a **persuasiveness scoring module** and a **competitor analysis
 
 ## 🚀 How to Use
 
-1. Open the `PitchPal_AI.ipynb` file in [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1VnJb7vALjBj2LnGtD6GApCQ413DEspt2?usp=sharing)).
+1. Open the `PitchPal_AI.ipynb` file in [`Google Colab`]([https://colab.research.google.com/](https://colab.research.google.com/drive/1VnJb7vALjBj2LnGtD6GApCQ413DEspt2?usp=sharing)).
 2. Choose a product description or type your own.
 3. Run the pitch generator to receive an auto-generated business pitch.
 4. View the persuasiveness score based on business-relevant keywords.
@@ -51,15 +51,15 @@ PitchPalAI/
 ├── README.md               # Project description
 
 🌐 Open Source Platforms Applied
-	•	GitHub – version control and source code hosting
-	•	Hugging Face – open-source model access (t5-base)
-	•	Google Colab – cloud-based runtime for interaction and sharing
+	• GitHub – version control and source code hosting
+	• Hugging Face – open-source model access (t5-base)
+	• Google Colab – cloud-based runtime for interaction and sharing
 
 📌 Target Users & Applications
-	•	Startup teams and founders
-	•	Business proposal writers
-	•	Entrepreneurship educators and students
-	•	Innovation accelerators and business incubators
+	• Startup teams and founders
+	• Business proposal writers
+	• Entrepreneurship educators and students
+	• Innovation accelerators and business incubators
 
 PitchPal AI can be used in startup competitions, proposal workshops, investor presentations, or AI-assisted business education.
 
