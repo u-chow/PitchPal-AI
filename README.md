@@ -28,7 +28,7 @@ It also includes a **persuasiveness scoring module** and a **competitor analysis
 
 ## 🚀 How to Use
 
-1. Open the `PitchPal_AI.ipynb` file in [`Google Colab`]([https://colab.research.google.com/](https://colab.research.google.com/drive/1VnJb7vALjBj2LnGtD6GApCQ413DEspt2?usp=sharing)).
+1. Open the `PitchPal_AI.ipynb` file in [`Google Colab`](https://colab.research.google.com/drive/1VnJb7vALjBj2LnGtD6GApCQ413DEspt2?usp=sharing)).
 2. Choose a product description or type your own.
 3. Run the pitch generator to receive an auto-generated business pitch.
 4. View the persuasiveness score based on business-relevant keywords.
